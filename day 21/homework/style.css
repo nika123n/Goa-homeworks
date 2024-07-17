@@ -1,0 +1,18 @@
+body{
+    background-color: aqua;
+}
+#img2{
+    width: 290px;
+        height: 280px;
+        border-radius: 50%;
+        box-shadow: 15px 15px 15px black;
+}
+select{
+    width: 300px;
+    height: 30px;
+    background-color: white;
+    box-shadow: 10px 10px 10px black;
+    border-radius: 20px;
+}
+
+

@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(0, 170, 255);
+}
+
+#img{
+    width:300px;
+    box-shadow: 10px 10px 10px black;
+}
+#img2{
+    width: 300px;
+    box-shadow: 10px 10px 10px black;
+}
+#img3{
+    width: 300px;
+    box-shadow: 10px 10px 10px black;
+}
+button{
+    width:50px;
+    background-color: black;
+    color:white
+}

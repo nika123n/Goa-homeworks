@@ -1,0 +1,13 @@
+.img{
+    border-radius: 50%;
+    box-shadow: 10px 10px 10px black;
+    filter:brightness(100%)
+}
+
+body{
+    background-color: rgb(17, 172, 207);
+}
+
+h1{
+    text-shadow: 5px 5px 5px black;
+}
